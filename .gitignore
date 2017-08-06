@@ -1,3 +1,7 @@
+# Use defined
+*.o
+*.exe
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

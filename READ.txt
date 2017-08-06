@@ -1,0 +1,2 @@
+Just some misc. c code I wrote while studying for midterms 
+and finals
